@@ -50,5 +50,5 @@ Go to browser and type 172.17.0.3/index.html
 
 Syntax will be ContainerIp/page_name
 
-
+Here you will see the page showing as " Welcome to KloudOne" 
 
